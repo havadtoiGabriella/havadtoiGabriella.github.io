@@ -24,11 +24,13 @@ text-decoration: underline;}
   margin-right: 10%;
   font-family: 'Roboto Slab', serif;
   letter-spacing: 3px;
+  text-align: center;
 }
 
 #logo{
   margin-left: 10%;
   width: 3%;
+  text-align: center;
 }
 
 #name{
