@@ -1,1 +1,0 @@
-# http://havadtoiGabriella.github.io
